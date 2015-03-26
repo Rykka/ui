@@ -3,9 +3,6 @@ Intro
 
 The UI things conclusion.
 
-Thinking about the User Interface(UI) and User Interaction(UX).
-
-
-
+Thinking about the User Interface, User Interaction(UI) and  User Experience(UX).
 
 
